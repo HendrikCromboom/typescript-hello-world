@@ -1,5 +1,5 @@
 const hello = (person: string) => {
-alert("Hello" + person);
+alert("Hello " + person + " !");
 };
 
 hello("World");
